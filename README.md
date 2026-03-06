@@ -1,44 +1,40 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+🛒 hmbk Tech Store - React Shopping Cart
+A clean, responsive shopping cart application built with React.js. This project allows users to browse tech products, add them to a cart, and see a real-time total price calculation.
 
-## Available Scripts
+🚀 Features
+Product Gallery: View items with high-quality images and pricing.
 
-In the project directory, you can run:
+Dynamic Cart: Add items to your shopping list with a single click.
 
-### `npm start`
+Total Calculation: Real-time price updates using React state hooks.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+Responsive Design: Styled with soft blue UI elements for a modern look.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+🛠️ Tech Stack
+Frontend: React.js (Hooks, State)
 
-### `npm test`
+Styling: CSS / Inline Styles
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Tools: Create React App, Git/GitHub
 
-### `npm run build`
+📦 Installation & Setup
+Clone the repository:
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+Bash
+git clone https://github.com/HMBK-G/first_react_exp.git
+Navigate into the project folder:
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+Bash
+cd first_app
+Install dependencies:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+Bash
+npm install
+Start the development server:
 
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
+Bash
+npm start
 ## Output when run : 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f20529f4-4170-422b-94eb-0c47a2b5c52a" />
 

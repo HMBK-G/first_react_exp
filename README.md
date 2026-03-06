@@ -1,5 +1,5 @@
 
-🛒 hmbk Tech Store - React Shopping Cart
+## 🛒 hmbk Tech Store - React Shopping Cart
 A clean, responsive shopping cart application built with React.js. This project allows users to browse tech products, add them to a cart, and see a real-time total price calculation.
 
 🚀 Features
@@ -37,7 +37,3 @@ Bash
 npm start
 ## Output when run : 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f20529f4-4170-422b-94eb-0c47a2b5c52a" />
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)

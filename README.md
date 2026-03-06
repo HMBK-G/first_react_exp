@@ -8,16 +8,19 @@ Dynamic Cart: Add items to your shopping list with a single click.
 Total Calculation: Real-time price updates using React state hooks.
 Responsive Design: Styled with soft blue UI elements for a modern look.
 
-``Tech Stack
-Frontend: React.js (Hooks, State)``
+Tech Stack
+``Frontend: React.js (Hooks, State)``
 
 ## Installation & Setup
 Clone the repository:
 ``git clone https://github.com/HMBK-G/first_react_exp.git``
+<br>
 Navigate into the project folder:
 ``cd first_app``
+<br>
 Install dependencies:
 ``npm install``
+<br>
 Start the development server:
 ``npm start``
 ## Output: 

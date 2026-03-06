@@ -4,36 +4,27 @@ A clean, responsive shopping cart application built with React.js. This project 
 
 🚀 Features
 Product Gallery: View items with high-quality images and pricing.
-
 Dynamic Cart: Add items to your shopping list with a single click.
-
 Total Calculation: Real-time price updates using React state hooks.
-
 Responsive Design: Styled with soft blue UI elements for a modern look.
 
-🛠️ Tech Stack
-Frontend: React.js (Hooks, State)
+``Tech Stack
+Frontend: React.js (Hooks, State)``
 
-Styling: CSS / Inline Styles
-
-Tools: Create React App, Git/GitHub
 
 📦 Installation & Setup
 Clone the repository:
-
-Bash
+``Bash
 git clone https://github.com/HMBK-G/first_react_exp.git
-Navigate into the project folder:
-
-Bash
+Navigate into the project folder:``
+``Bash
 cd first_app
-Install dependencies:
-
-Bash
+Install dependencies:``
+``
 npm install
-Start the development server:
+Start the development server:``
 
-Bash
-npm start
+``Bash
+npm start``
 ## Output: 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f20529f4-4170-422b-94eb-0c47a2b5c52a" />

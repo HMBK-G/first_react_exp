@@ -35,5 +35,5 @@ Start the development server:
 
 Bash
 npm start
-## Output when run : 
+## Output: 
 <img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/f20529f4-4170-422b-94eb-0c47a2b5c52a" />
